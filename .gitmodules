@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SKAT"]
+	path = SKAT
+	url = https://github.com/leelabsg/skat
+	shallow = true
+	registered = true
